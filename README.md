@@ -16,7 +16,7 @@ The recommended way to install EmailReplyParser is through
 [Composer](http://getcomposer.org/):
 
 ```shell
-composer require willdurand/email-reply-parser
+composer require canreo/email-reply-parser
 ```
 
 ## Usage
