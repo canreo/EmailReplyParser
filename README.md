@@ -1,10 +1,8 @@
 # EmailReplyParser
 
-[![GitHub Actions](https://github.com/willdurand/EmailReplyParser/workflows/ci/badge.svg)](https://github.com/willdurand/EmailReplyParser/actions?query=workflow%3A%22ci%22+branch%3Amaster)
-[![Total
-Downloads](https://poser.pugx.org/willdurand/email-reply-parser/downloads.png)](https://packagist.org/packages/willdurand/email-reply-parser)
-[![Latest Stable
-Version](https://poser.pugx.org/willdurand/email-reply-parser/v/stable.png)](https://packagist.org/packages/willdurand/email-reply-parser)
+[![GitHub Actions](https://github.com/canreo/EmailReplyParser/workflows/ci/badge.svg)](https://github.com/canreo/EmailReplyParser/actions?query=workflow%3A%22ci%22+branch%3Amaster)
+
+
 
 **EmailReplyParser** is a PHP library for parsing plain text email content,
 based on GitHub's [email_reply_parser](http://github.com/github/email_reply_parser)
